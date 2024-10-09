@@ -131,7 +131,7 @@ nav {
 }
 
 .icon {
-    width: 200px; 
+    width: 100px; 
     height: auto;
     cursor: url('./assets/img/cursor_selecao.png'), pointer; 
 }
